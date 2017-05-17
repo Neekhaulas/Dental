@@ -1,0 +1,22 @@
+<?php
+$lang['date'] = "Date";
+$lang['name'] = "Name";
+$lang['amount'] = "Amount";
+$lang['print'] = "Print";
+$lang['new'] = "New";
+$lang['language'] = "english";
+$lang['back'] = "Back";
+$lang['validate'] = "Validate";
+$lang['surname'] = "Surname";
+$lang['first-name'] = "First name";
+$lang['date-of-birth'] = "Date of birth";
+$lang['postcode'] = "Postcode";
+$lang['city'] = "City";
+$lang['country'] = "Country";
+$lang['closed'] = "Closed";
+$lang['close'] = "Close";
+$lang['language-w'] = "Language";
+$lang['cancel'] = "Cancel";
+$lang['yes'] = "Yes";
+$lang['no'] = "No";
+$lang['hour'] = "Hour";
